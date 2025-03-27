@@ -4,7 +4,6 @@
 
 Welcome to the cutting-edge Financial Analysis System – where data science meets investment intelligence! This advanced Python-based platform leverages state-of-the-art machine learning and financial modeling techniques to provide deep insights into stock market dynamics.
 
-![Project Banner](https://via.placeholder.com/1200x400.png?text=Financial+Analysis+System)
 
 ## 🌟 Key Features
 
@@ -149,13 +148,9 @@ The system generates:
 - [ ] Web dashboard integration
 - [ ] Machine learning model improvements
 
-## 📜 License
-
-Distributed under the MIT License. See `LICENSE` for more information.
-
 ## 🏆 Acknowledgements
 
-- [Anthropic](https://www.anthropic.com) for AI guidance
+
 - [FastAPI](https://fastapi.tiangolo.com/) for web framework
 - [Pandas](https://pandas.pydata.org/) for data manipulation
 - [Matplotlib](https://matplotlib.org/) for visualization
