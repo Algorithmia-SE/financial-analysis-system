@@ -1,37 +1,8 @@
-langchain-community
-langchain-groq
-groq
-python-dotenv
-typing-extensions
-langgraph
-arxiv
-wikipedia
-langchain
-
-# Core Libraries
-
-
-# Data Processing
-pandas
-yfinance
-numpy==1.24.3
-pmdarima==2.0.0
-
-# Visualization
-matplotlib
-seaborn
-
-# Optional: For advanced processing
-scikit-learn
-scipy
-
-# Development and Testing
-pytest
-black
-flake8
-
-
-python-multipart
-uvicorn
+iniconfig==2.1.0
+packaging==25.0
+pluggy==1.6.0
+Pygments==2.19.2
+pytest==8.4.2
 fastapi
-pytest
+uvicorn
+python-dotenv

@@ -59,6 +59,14 @@ async def perform_financial_analysis(request: AnalysisRequest):
         raise HTTPException(status_code=500, detail=str(e))
 
 # Additional endpoints can be added here
+@app.get("/")
+async def root():
+    return {"message": "Financial Analysis API is running"}
+
+@app.get("/health")
+async def health_check():
+    return {"status": "healthy"}
+
 
 if __name__ == "__main__":
     import uvicorn
