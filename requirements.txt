@@ -14,3 +14,8 @@ multitasking==0.0.12
 
 yfinance==0.2.40
 matplotlib==3.8.2
+# LLM deps
+langchain-groq
+langchain
+groq           
+python-dotenv  
